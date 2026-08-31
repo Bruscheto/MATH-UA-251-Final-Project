@@ -1,0 +1,5 @@
+scenario,budget,profit
+current observed allocation,635372,-73408.764
+current allocation with smoothed rates,635372,-69682.40710978556
+balanced allocation (alpha=0.25),635372,-37289.42566694486
+aggressive allocation (alpha=0),635372,-29071.731942352384
